@@ -9,13 +9,13 @@
 
 
 ### Обо мне  
-- Моё направление java-разработка  
+- Моё направление - java-разработка  
   
 
 <br/>  
 
 
-## My Skill Set  
+## Мои навыки
 <table><tr><td valign="top" width="100%">
 
 <div align="center">  
@@ -34,7 +34,7 @@
 <br/>  
 
 
-## Connect with me  
+## Связаться со мной
 <div align="center">
 <a href="https://github.com/https://github.com/FantasmaDux" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -45,31 +45,10 @@
 <br/>  
 
 
-## Github Stats  
+## Статистика Github 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=FantasmaDux&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FantasmaDux&hide_border=true&layout=compact" align="left" />  
 
 <br/>  
 
-
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
-
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
