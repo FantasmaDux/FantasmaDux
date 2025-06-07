@@ -46,9 +46,11 @@
 
 
 ## Статистика Github 
+### Работа с Github
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=FantasmaDux&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FantasmaDux&hide_border=true&layout=compact" align="left" />  
+### Предпочитаемые языки
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FantasmaDux&hide_border=true&layout=compact" align="center" />  
 
 <br/>  
 
