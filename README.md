@@ -1,6 +1,6 @@
-<div align="center">
+<!--<div align="center">
 <img src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif" align="center" style="width: 100%" />
-</div>  
+</div> -->  
   
 
 ### <div align="center">Hello, I am FantasmaDux!</div>  
