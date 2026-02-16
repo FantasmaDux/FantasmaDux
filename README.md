@@ -40,11 +40,3 @@ I'm a 3rd-year student at YSTU and a participant at School 21. Java is my primar
 
 
 
-## GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FantasmaDux&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FantasmaDux&hide_border=true&layout=compact&theme=tokyonight" />
-</div>
-
-
