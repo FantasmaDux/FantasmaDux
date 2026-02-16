@@ -3,16 +3,11 @@
 </div>  
   
 
-### <div align="center">Привет, я FantasmaDux!</div>  
+### <div align="center">Hello, I am FantasmaDux!</div>  
   
-
-
 
 ### Обо мне  
-- Моё направление - java-разработка  
-  
-
-<br/>  
+I'm a 3rd-year student at YSTU and a participant at School 21. Java is my primary language for backend development. I enjoy building web and mobile applications, and I'm also deeply interested in software testing. So I can think about both functionality and user experience. In my free time, I explore Kotlin and build small mobile apps.
 
 
 ## Мои навыки
