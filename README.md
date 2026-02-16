@@ -6,11 +6,11 @@
 ### <div align="center">Hello, I am FantasmaDux!</div>  
   
 
-### Обо мне  
+### About me
 I'm a 3rd-year student at YSTU and a participant at School 21. Java is my primary language for backend development. I enjoy building web and mobile applications, and I'm also deeply interested in software testing. So I can think about both functionality and user experience. In my free time, I explore Kotlin and build small mobile apps.
 
 
-## Мои навыки
+## My skills
 <table><tr><td valign="top" width="100%">
 
 <div align="center">  
@@ -29,18 +29,7 @@ I'm a 3rd-year student at YSTU and a participant at School 21. Java is my primar
 <br/>  
 
 
-## Связаться со мной
-<div align="center">
-<a href="https://github.com/https://github.com/FantasmaDux" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
-<br/>  
-
-
-## Статистика Github 
+## Github statistic 
 ### Работа с Github
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=FantasmaDux&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
