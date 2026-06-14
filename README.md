@@ -27,6 +27,8 @@ I'm a 3rd-year student at YSTU and a participant at School 21. Java is my primar
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 ![Charles Proxy](https://img.shields.io/badge/Charles_Proxy-4B8BBE?style=for-the-badge&logo=charles&logoColor=white)
+![Proxyman](https://img.shields.io/badge/Proxyman-00A3E0?style=for-the-badge&logo=proxyman&logoColor=white)
+![A/B Testing](https://img.shields.io/badge/A/B_Testing-FF4785?style=for-the-badge&logo=datadog&logoColor=white)
 
 ### DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -38,5 +40,8 @@ I'm a 3rd-year student at YSTU and a participant at School 21. Java is my primar
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-
+### AI
+![Codex](https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=openai&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-7C3AED?style=for-the-badge&logo=anthropic&logoColor=white)
 
